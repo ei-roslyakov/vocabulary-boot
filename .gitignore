@@ -1,0 +1,9 @@
+**/.terraform
+**/sec.tfvars
+**/.vscode
+**/.idea
+**/work_dir
+**/venv
+temp.txt
+
+*.py[cod]
