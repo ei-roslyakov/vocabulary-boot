@@ -1,4 +1,4 @@
-pytelegrambotapi==4.32.0
+pytelegrambotapi==4.33.0
 loguru==0.7.3
 PyYAML>=5.4.1
 terminaltables>=3.1.0
